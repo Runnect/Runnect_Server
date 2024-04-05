@@ -135,7 +135,6 @@
 
 # 📄 API(+ Non - API) Docs
 
-[Runnect Server API(+ Non - API) Docs](https://meowing-orange-9b6.notion.site/Runnect-Server-API-Non-API-Docs-d22169bc1df84bf8871e59781d03be2b)
 ![image](https://user-images.githubusercontent.com/88873302/212285411-c1f1aae2-78c7-4a92-bd7b-907a9c31ac03.png)
 </aside>
 <hr>
